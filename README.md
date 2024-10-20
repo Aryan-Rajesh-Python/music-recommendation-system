@@ -42,3 +42,6 @@ Steps to run this application:
    ```bash
    
    git clone https://github.com/yourusername/song-recommendation-system.git
+   cd song-recommendation-system
+   pip install -r requirements.txt
+   python recommendation.py
