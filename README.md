@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Song Recommendation System** leverages a dataset of Spotify lyrics to recommend songs based on lyrical similarities. Utilizing natural language processing (NLP) techniques and machine learning algorithms, this project aims to provide users with personalized song suggestions based on their preferences.
+The **Music Recommendation System** leverages a dataset of Spotify lyrics to recommend songs based on lyrical similarities. Utilizing natural language processing (NLP) techniques and machine learning algorithms, this project aims to provide users with personalized song suggestions based on their preferences.
 
 ## Key Components
 
