@@ -41,7 +41,7 @@ The **Music Recommendation System** leverages a dataset of Spotify lyrics to rec
 Steps to run this application:
    ```bash
    
-   git clone https://github.com/yourusername/song-recommendation-system.git
-   cd song-recommendation-system
+   git clone https://github.com/yourusername/music-recommendation-system.git
+   cd music-recommendation-system
    pip install -r requirements.txt
    python recommendation.py
